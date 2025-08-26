@@ -1,0 +1,14 @@
+C:\Users\YYuuk\source\repos\exer2\exer2\bin\Debug\net8.0\exer2.exe
+C:\Users\YYuuk\source\repos\exer2\exer2\bin\Debug\net8.0\exer2.deps.json
+C:\Users\YYuuk\source\repos\exer2\exer2\bin\Debug\net8.0\exer2.runtimeconfig.json
+C:\Users\YYuuk\source\repos\exer2\exer2\bin\Debug\net8.0\exer2.dll
+C:\Users\YYuuk\source\repos\exer2\exer2\bin\Debug\net8.0\exer2.pdb
+C:\Users\YYuuk\source\repos\exer2\exer2\obj\Debug\net8.0\exer2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YYuuk\source\repos\exer2\exer2\obj\Debug\net8.0\exer2.AssemblyInfoInputs.cache
+C:\Users\YYuuk\source\repos\exer2\exer2\obj\Debug\net8.0\exer2.AssemblyInfo.cs
+C:\Users\YYuuk\source\repos\exer2\exer2\obj\Debug\net8.0\exer2.csproj.CoreCompileInputs.cache
+C:\Users\YYuuk\source\repos\exer2\exer2\obj\Debug\net8.0\exer2.dll
+C:\Users\YYuuk\source\repos\exer2\exer2\obj\Debug\net8.0\refint\exer2.dll
+C:\Users\YYuuk\source\repos\exer2\exer2\obj\Debug\net8.0\exer2.pdb
+C:\Users\YYuuk\source\repos\exer2\exer2\obj\Debug\net8.0\exer2.genruntimeconfig.cache
+C:\Users\YYuuk\source\repos\exer2\exer2\obj\Debug\net8.0\ref\exer2.dll
